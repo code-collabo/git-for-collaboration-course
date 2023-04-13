@@ -12,7 +12,7 @@ Parent repo: [code-collabo/git-and-github-for-collaboration](https://github.com/
 
 This repository is where the content of the Git and Github for collaboration course lives.
 
-You can [access the video lectures live on the gitbook resource using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
+[Enroll in the git and github for collaboration course using this link](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 
 ## Contributors ✨
 
